@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{  margin: 0 auto;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: black;
+    padding: 30px 10px;
+}
+.box2{
+    background-color: blueviolet;
+    color:aliceblue;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    position: absolute;
+    right: 0;
+}
+.box1{
+    border: gray solid 3px;
+}
